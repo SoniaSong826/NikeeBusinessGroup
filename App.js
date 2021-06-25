@@ -1,13 +1,18 @@
-import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import FunctionMenu from './App/components/FunctionMenu';
+import HomeScreen from './App/screens/HomeScreen';
+import {
+	useFonts,
+	Roboto_700Bold,
+	Roboto_400Regular,
+	Roboto_100Thin,
+	Roboto_500Medium,
+} from '@expo-google-fonts/roboto';
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <HomeScreen></HomeScreen>
   );
 }
 

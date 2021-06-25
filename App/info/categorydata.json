@@ -1,0 +1,374 @@
+[
+    {
+        "name": "Migration",
+        "image": "Migration-Services",
+        "description": "With over 23+ years of experience in Migration, Education and Employment, our in-house experts are here to solve all your migration and visa problems. Book a consultation today – in person or even over the phone!",
+        "id": 1
+    },
+    {
+        "name": "Education",
+        "image": "Education",
+        "description": "Elevate your career opportunities in Australia by investing in yourself. Find out which courses you need to succeed in the career path you desire. Call us today and book a consultation – Don’t miss out!",
+        "url":"https://www.nikeeworld.com/international-student-education/",
+        "id": 2,
+        "contents": {
+            "title": "International Students in Australia",
+            "paragraph": "International students are a crucial part of Australia’s economy and tourism sector.In recent years we have had over 899,000 students enroll in education programs across Australia with over 350,000enrolled in Higher Education studies in the last year alone.\n\nWith a substantial economic benefit to the Australian economy, no doubt Australia loves opening its doors to international students every year.\n\n After coal and iron ore, international education is Australia’s third biggest export industry.International students seeking permanent residence apply under the Australian skilled migration program.\n\nOver the past five years former students have made up between six and nine per cent of the family streamand between 14 and 22 per cent of the skill stream.Nikee Education Advisors provides students with educational enrolment support, visa advice and on-one-ontailored consultations to solve all your problems in Australia.",
+            "image1": "service_education",
+            "image2": "service_education2",
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "How We Help",
+                    "content": "Our consultants will give you detailed advice and in-depth career counselling to assist you with your specific situation.\n \n We will help you select not only the most relevant course to study based on your needs but will also help you enrol at a discounted cost through our partners.\n\n We will provide you with all the information and documentation required to make an informed decision.\n\nOur consultants even prepare the forms for you, if you are struggling with your English and need that extra support so you can feel relieved and stress-free."
+                },
+                {
+                    "id": 1,
+                    "question": "Once You Have Completed Your Studies",
+                    "content": "Many international students choose to work in Australia at the completion of their courses. Indeed, in some industries and courses it may be crucial to complete a work placement orinternship in order to gain professional accreditation in the field.\n\nWork placements and internships in your industry are crucial in Australia and will provide you with a valuable starting point in gaining employment.Whether you plan to continue to live and workin Australia or go back to your home country to work, or even a combination or both, completing a placement in Australia is highly likely to increasesyour chances of getting a better job down the track. Further, work placements and internships definitely increases your chances as an international studentof finding an Australian employer to sponsor you so that you can obtain a permanent residence status in Australia.\n\nIf you ever have the chance to work in Australia, consider yourself quite lucky. Post higher education employment in Australia has some of the highestpaying jobs worldwide and with wages usually higher than the home countries of most international students, it certainly assists students to covertheir tuition fees and loans. Not only can you repay your loans, but you will also get an opportunity to send some money back home to family,complete further study or even get a return on their substantial investment of studying in Australia. \n\nThe opportunity to work in Australia attracts thousands of international students each year, and those fortunate enough to undertake this journey,place themselves well ahead of their friends and peers back home."
+                },
+                {
+                    "id": 2,
+                    "question": "Australian Qualification International Recognition",
+                    "content": "Australia has an international reputation for excellence in all areas of education and training with many of our universities holding top rankings worldwide. Depending on the course you choose to study in Australia you will have a different number of contact hours (face-to-face) time. Nowadays majority of universities have their classes recorded and accessible via an online portal, meaning that you may not even need to enter campus if you prefer studying through the online method. Most Bachelor courses have classes during the day. For Masters courses, some universities offer evening classes, which means you’ll have the chance to work a few hours during the day and make some money to cover your tuition fees.\n\nAustralia also is a leading country for innovation and growth and encourages a work life balance. Australian professors are experts in their industries and most students find their teachers a fantastic resource even once they have graduated, helping them meet industry professionals and connect with role models in the professional space. Many of Australia’s top professors hold international awards, a PhD or exceptionally high educational and professional experience."
+                },
+                {
+                    "id": 3,
+                    "question": "Vocational ED",
+                    "content": "Australia’s approach to vocational education and training leads the world in innovation and quality. You’ll have the opportunity to step outside the classroom and practice your skills in real and simulated workplaces, which will give you a huge advantage over other graduates."
+                },
+                {
+                    "id": 4,
+                    "question": "Why Australia?",
+                    "content": "In Australia truly is the land of opportunity. Every university has a range of diverse and interesting courses which embrace innovation, technology, business, creativity and much more. Studying in Australia will give you the freedom to choose a path that suits you and your goals. With thousands of courses on offer you are bound to find something to match your needs.\n\nWhichever course you choose, you’ll experience a unique kind of education. Studying in Australia promotes innovative, creative and independent thinking. Many assessments involve independent work as well as team work to help you communicate effectively with others and to develop the practical skills and intellectual skills detrimental for your global success. You will learn how to be proactive and take initiative. Your teachers will encourage you to think of original, practical solutions to real-world problems. Above all, a degree from an Australian university is quite highly regarded in most countries worldwide and will place you as a top candidate for any job in Australia or even internationally.\n\nThe Australian education system has a strong international reputation and is known for its effective structure and innovative policy developments. Many other countries, eager to improve their own education systems, turn to Australia for advice. Australia is also one of the best places to live, with our home city Melbourne taking the prize for ‘The World’s Most Liveable City’. We are vibrant, multicultural and friendly country in which students can not only study and live but also grow into well-rounded individuals both mentally and physically. Australia’s the place to be."
+                },
+                {
+                    "id": 5,
+                    "question": "Visas",
+                    "content": "Take advantage of our quality education and training in Australia by applying for a student visa and you could be living your dream here in Australia. Visas are granted by the Australian Department of Immigration and Citizenship (DIAC). DIAC will grant you a student visa if your course is registered, or is part of a registered course, and only if it is studied on a full-time basis.\n\nA registered course is one offered by an Australian education provider registered with the Australian Government to offer courses to overseas students. Visit the Commonwealth Register of Courses and Institutions for Overseas Students (CRICOS) website for more information. On a Visitor or Working Holiday visa you can only study courses under three months duration For courses longer than three month you must apply for a student visa."
+                },
+                {
+                    "id": 6,
+                    "question": "Student Visa Advantages",
+                    "content": "Access to Australia’s sub-sidised student health cover.\n\nAbility to study longer than three months..\n\nAbility to work part-time.\n\nAs soon as you receive a letter of offer or Confirmation of Enrolment (CoE) from your educational institution, you will be able to apply for your student visa. Our local Australian office can also give you information on applying including:\n\nAll the facts you need to know before you submit your application\n\nMost common mistakes students make when applying and how to avoid them\n\nHow to tailor your application to your institution\n\nAll the key documents you will need for your application\n\nHow to have you application processed faster &amp; in the optimal way."
+                }
+            ]
+        }
+    },
+    {
+        "name": "Employment",
+        "image": "Employment",
+        "description": "Are you an employer or job seeker? We regularly partner with employers and colleges to provide new settlers with opportunities to accelerate their career in Australia.",
+        "url": "https://www.nikeeworld.com/our-nikee-team/",
+        "id": 3,
+        "contents": {
+            "title": "Recruitment and Placement Services",
+            "paragraph": "At Nikee, we understand that finding work in Australia can be extremely difficult. We are the “middle-men” who match qualified students looking for jobs with employers seeking local and international applicants across our huge database, built over the last 23 years. Since 1996 we have helped over 16,000 people throughout our Nikee Business Group network to study and work in Australia. We are now in the top 2% of registered migration agents in Australia. We specialise in matching job seekers with suitable employers in all regional areas.\n\nWhen it comes to finding regional work in Victoria, New South Wales, Western Australia, South Australia, Tasmania or the North Territory, we will liaise with our partners and our connections in the hidden job market to find you a position that matches your qualifications. We work with thousands of businesses Australia wide to enable our students to work in a job that they enjoy and one that also matches their needs. In recent years we have had a very high success rate with our placements that both match our students skills and fields of expertise and that fulfil their needs as well.",
+            "image1": "employment",
+            "image2": "employment_service",
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "Attention Employers - Hire Qualified Staff with Ease",
+                    "content": "We are always looking to partner with employers from Australia and overseas who take onboard qualified international students who have completed a degree, diploma and/or trade certificates in Australia. Our in-house interview matching program ensures that employers are matched to only the top students who are not only qualified but also share a passion for the job.\n\nThe network of partners which we have built over the last 23 years are second to none and include all types of businesses and corporations – Large corporations, SMEs, local businesses, educational institutions as well as training bodies including private colleges, TAFE colleges and universities.\n\nWe will find you candidates who match your selection criteria requirements, with the relevant qualifications, the personality and the passion for the job. We understand that sourcing exceptional candidates is a difficult task so let us look after the tedious work so you can do your job! Contact us today if you are looking to hire staff or for partnership enquiries."
+                },
+                {
+                    "id": 1,
+                    "question": "International Student Internships in Australia",
+                    "content": "Complete a 12 week professional internship in your industry in Australia. We have a large no of positions available and can assist you in finding a long-term reliable company to work with in a range of industries including but not limited to: trade occupations, hospitality, aged care, engineering, accounting, administration and management."
+                },
+                {
+                    "id": 2,
+                    "question": "Program Benefits",
+                    "content": "Participate in a 12 week unpaid internship placement in an Australian company\n\nBridge the gap between your studies and career\n\nHands-on work experience in real work environment\n\nDevelop your employability skills &amp; work in your industry\n\nGet a foot in the door with the local job market\n\nIncrease your chances of gaining employment in Australia\n\nBuild connections in the local market\n\nDevelop &amp; grow your personal brand through networking events\n\nPractice and advanced your communication skills\n\nBuild the confidence to sell yourself to employers\n\nGet Australian references for future jobs in Australia\n\n"
+                },
+                {
+                    "id": 3,
+                    "question": "Industries Currently Accepting Students",
+                    "content": "Accounting, Auditing, Administration, MYOB\n\nTechnology – Analysis, Design, Development, Testing, Networking, Web\n\nEngineering – Building, Civil, Maintenance, Mechanical. Electronics, Electrical\n\nHospitality – Customer Service, Leadership, Management\n\nSales and Marketing – Call center, door to door, events\n\nManagement and Leadership, Administration\n\nOur internship programs help students successfully bridge the gap from study to professional employment. The program not only supports students in gaining relevant professional experience, but also provide a personalised learning and development plan for each student through a formal Training and Evaluation Process."
+                }
+            ]
+        }
+    },
+    {
+        "name": "Business",
+        "image": "Business-Advisors",
+        "description": "Nikee Business Group delivers a range of solutions to help your achieve your business goals. Working with thousands of businesses Australia-wide, our Business Consultants translate this experience into online tools.",
+        "url": "https://www.nikeeworld.com/nikee-business-consultants/",
+        "id": 4,
+        "contents": { 
+            "title": "Business Advisors",
+            "paragraph": "Nikee Business Group delivers a range of business solutions to assist you in achieving your business goals. Our business consultants work with thousands of SMEs and small businesses Australia-wide, providing them with the tools, resources and practical advice to help them make more efficient &amp; effective management decisions.\n\nOur consultants understand what it takes to build a successful business and have been trusted by Australians since 1996. We analyse your business, look into the areas which you would like to focus on and we not only help you grow your business but also assist with the fundamentals of recruitment, developing a staff training plan, implementing leadership in your teams, business restructuring and provide advice on a range of matters.\n\nOur methods are presented in a straightforward but effective manner so any business owner will be able to immediately implement any advice or knowledge shared. Through our interaction tracking and management software we can allow accelerate your business growth through targeted marketing campaigns, developing a thorough business plan and leveraging resources. \n\nWe will provide you with the tools to assist you in developing a coherent and structured business plan, and train you, as a business owner, to be able to identify issues early and implement optimum solutions at the right times.\n\nWe understand that as a business-owners, you are juggling multiple hats at once and may be also struggling with numerous issues including shortages of skilled staff and effective resources to help grow the business. We want to work together with you to eliminate these problems and build as to identify and implement solutions which will generate quick results and provide long term growth to achieve their international business goals to import, export or establish a business presence overseas.\n\nOur methods are presented in a straightforward but effective manner so any business owner will be able to immediately implement any advice or knowledge shared. Through our interaction tracking and management software we can allow accelerate your business growth through targeted marketing campaigns, developing a thorough business plan and leveraging resources.\n\nOur Consultants combine practical experience with the latest international knowledge and high level connections in both government and business to:\n\nConnect you to international networks and provide the latest market and industry information.Work with you to achieve your global business.",
+            "image1": "business",
+            "image2": "business_service",
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "How We Can Grow Your Business",
+                    "content": "Access to country and industry experts to grow your business overseas\n\nMarket intelligence\n\nMarket entry strategies\n\nDistribution partner matching\n\nMarket visits\n\nInternational trade consulting\n\nExport documentation\n\nTrade missions\n\nEvents.\n\nOur plans are flexible and are designed to support the largest multi-national corporations to a single individual. With clients in all industry segments, we have a deep understanding of their businesses and how changes in laws and regulations will impact them.\n\nAdvances in the growing global markets in business, management technology are transforming just about every part of our lives, from the way we work to the way we manage, communicate and access services\n\nInnovation is about new and existing businesses which can create new products, processes and business models for their business growth. Innovation is important to every sector of the economy – from ICT to healthcare, education to agriculture, and defence to transport\n\nSmall and Medium business owners are often challenged by the industry to handle multiple tasks and wear too many hats. Let our consultants advise you on all these challenges so you can be better equipped to focus on what you need to do and you are extremely good at – running your business."
+                },
+                {
+                    "id": 1,
+                    "question": "Business Plans and Reports",
+                    "content": "Whether you’re an established or start-up business, it’s important to have a plan to help you achieve your goals.\n\nA business plan outlines your strategy for the next couple of years. It may be used to help support an application for business finance or business grants, or it could be just for your own use as a roadmap for the growth of your business.\n\nIt explains your objectives and the actions required to get your small business from where it is now, to where you want it to be.\n\nThe process of writing your plan will help you focus, crystallise your ideas and identify priorities, saving both time and effort. Your business plan will give you a clear sense of direction and a benchmark enabling you to measure progress."
+                },
+                {
+                    "id": 2,
+                    "question": "Labour Marketing Testing",
+                    "content": "Standard Business Sponsors must, unless exempt, test the local labour market prior to nominating an overseas worker.\n\nSponsors must then provide information about their attempts to recruit Australian workers to the department, the cost of doing so and demonstrate how they have determined that there is no suitably qualified and experienced Australian citizen or permanent resident to fill the position.\n\nSubject to Australia's international treaty obligations, except where the occupation is protected, exemptions from the labour market testing requirement may apply in relation to the required skill level for a nominated position.\n\nEssentially, this means that all ANZSCO Skill Level 1 and 2 (that is managers and professionals) are exempt from the labour market testing requirement with the exception of occupations in the nursing and engineering professions.\n\nLabour market testing is a process which employers must undergo, It is not required for all occupations, however we recommend that labour market testing be a core component for all 457 visa applications\n\nLabour Market testing is essentially testing the local labour market for a specific vacant position prior to lodging a nomination application.\n\nThis testing ensures that there is no suitably qualified and experienced Australian citizen, permanent resident or ‘eligible temporary visa holder’ readily available to fill that vacant position.\n\nIt also supports the employer’s decision of hiring an overseas worker."
+                },
+                {
+                    "id": 3,
+                    "question": "Genuine and Need For Position Reports",
+                    "content": "The genuine position requirement provides authority for the department to refuse a nomination if there are concerns that the position associated with the nominated occupation is not genuine or was created specifically to achieve a migration outcome.\n\nThis is intended to ensure that the position is genuinely required by the business and that the 457 programmer is only being used for legitimate purposes.\n\nThe requirement also provides decision-makers with the ability to better scrutinize cases where the authenticity of the certifications made by the business in relation to the tasks and skill level of the position is questionable.\n\nA detailed and analytical report in support of the Genuineness of the Nominated Position and Need of the Nominee plays a vital role in the success of a nomination application.\n\nThe company must demonstrate that the nominated position is a genuine position within the company.\n\nThe position is relevant to the nature and scope of the business activities of the company and is necessary to the continuing operations of the business.\n\nOur reports are professionally written and many nomination applications have been successful due to our detailed reports.\n\nThe most important requirements when sponsoring a foreign employee is whether the nominated position is a genuine position and if there is a genuine need for a foreign worker within the busines."
+                },
+                {
+                    "id": 4,
+                    "question": "Salary Reports",
+                    "content": "The market rate framework is based on the principle that, to the maximum extent possible given their particular circumstances, 457 visa holders should be provided with terms and conditions of employment (earnings) which are no less favourable than those provided to an Australian worker performing equivalent work.\n\nThe policy imperative of the market rates framework is that the 457 visa holder be paid neither under the market rate (with the risk that this would entail of overly “cheap” labour), nor over it (which could indicate that Australians were being paid inequitable salaries compared to temporary skilled migrants).\n\nMarket Salary Reports provide detailed information on the salary range of various occupations including market salary research within a wide range of industries.\n\nA Market Salary Report is a report that gathers detailed salary information and range for various occupations within a number of industries. It provides useful insights into salary forecasts and expectations and recruitment challenges.\n\nIt helps companies plan for their human resource needs by providing detailed analysis and research on the current salaries of various occupations."
+                }
+            ]
+        }
+    },
+    {
+        "name": "Marketing",
+        "image": "Marketing-Experts",
+        "description": "Looking for a marketing wiz to get on top of all your social media and marketing campaigns? Our marketing team can takeover all your marketing for you, so you can have some more time to yourself!",
+        "url" : "https://www.nikeeworld.com/marketing-experts-melbourne/",
+        "id": 5,
+        "contents": { 
+            "title": "Marketing",
+            "paragraph": "Our Marketing Team at NJ Productions are passionate about making all your marketing campaigns a success with their photographers, videographers and personal designers on working on your projects, you can be sure to have unique and engaging social media and digital marketing content.\n\nLooking for some fresh content to blow up everyone’s news feed?\n\nNot getting the traction you need on your social media platforms?\n\nNot sure what you’re doing wrong?\n\nNot sure what you’re doing wrong?",
+            "image1": "marketing",
+            "image2": "marketing_service",
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "Social Media Marketing",
+                    "content": "Our social media packages will help you accelerate your lead generation and streamline your workflow. Right from scheduling your daily posts to crafting unique entertaining videos – We’ll got all your social media needs covered in one place.\n\nCrafting + scheduling facebook posts\n\nCrafting + scheduling instagram posts\n\nDesigning linkedin posts\n\nDesigning twitter posts\n\nEditing &amp; designing facebook markteing videos\n\nEditing &amp; designing instagram videos\n\nCreating instagram story campaigns\n\nCreating short + long term facebook campaigns"
+                },
+                {
+                    "id": 1,
+                    "question": "Digital Marketing",
+                    "content": "We offer a range of digital marketing solutions for both small businesses and large organisations. Whether you would like to elevate your business’ brand or launch a brand-new winner marketing campaign, we’ll create something unique and tailored to suit your business.\n\nPromotional videos\n\nCorporate videos\n\nBusiness fliers\n\nBusiness brochures\n\nLogos &amp; branding\n\nBusiness cards\n\nCorporate banners artwork\n\nAnd much more…\n\nFor more information or to book now please visit www.njproductions.com.au or\n\nEmail Nicole at njmediaproduction@gmail.com."
+                }
+            ]
+        }
+    },
+    {
+        "name": "Media",
+        "image": "media-production",
+        "description": "Are you hosting an event or special celebration? Our partners NJ Productions have all your photography, video, graphic design and marketing needs covered! Click here to view their amazing work.",
+        "url": "https://njproductions.com.au",
+        "id": 6
+    },
+    {
+        "name": "Technology",
+        "image": "Technology-Solutions",
+        "description": "Our IT consultants are dedicated to providing you with solutions to all your tech needs, whenever you need it!",
+        "url": "https://www.nikeeworld.com/tech/",
+        "id": 7,
+        "contents" : {
+            "title": "Tech Solutions",
+            "paragraph": "Our Tech team provides services in IT, web development, consulting We provide IT development, consulting and IT Services with highly qualified professionals, committed to provide efficient, cost-effective, on-time solutions.\n\nWe have brought together some of the best professionals from well reputed businesses locally and overseas such as Team-IT, My Computer India and IMigrate247. A client focused, innovative approach to research and assessment combined with a high level of ethics and values makes us the most challenging consulting firm in Melbourne.\n\nWe will empower your IT department or become it. We seek long term relationships with our customers. We firmly believe that conventional wisdom says that most companies need computers to succeed in today’s fiercely competitive business environment.\n\nNTS optimizes the use of technology and brings our network administration and computer networking consultants to your business that are reflected in your bottom line. At NTS we begin by listening to you explain how your business operates, what are the problems and bottlenecks, what needs to be done to make it more efficient – and therefore more profitable.\n\nThen we’ll create a plan – specific to your business – to implement those solutions. We’ll also recommend hardware and software, work with you during installation and on training your people, and help you get your communications system up and running.\n\nWe’ll also offer you a support plan so that we can be available to answer your questions and to help with troubleshooting.\n\nNTS provides end-to-end IT consulting, Software Development, IT Support, Business, Systems and Network services.\n\nCombining deep industry expertise with high-powered technology, our consultants deliver premium business solutions to clients.\n\nNTS provides innovative technology solutions to improve business processes and in turn, profitability.\n\nWith NTS you can expect to deliver practical business services while staying on top of your professional development and expanding your skills and knowledge.\n\nJoin us and help make the world smarter – one consulting project at a time.\n\nOur software is based on intelligent techniques to efficiently automate your entire business.\n\nA decade of research into user interface and usage analysis\n\nSeamless data entry in our software is just the start.\n\nCan be integrated with your existing software ecosystem\n\nProvide you dramatic increase in business efficiency and employee productivity.\n\nAdd to that the capability to analyze and access data from anywhere over the internet and you have got a great deal of power waiting to be unleashed.",
+            "image1": "technology",
+            "image2": "tech_service",
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "IT Consultancy",
+                    "content": "Our Business Consultants are your complete resource for personal, professional and experienced small business and technology consulting services.\n\nWe apply big business knowledge and experience to a small business owner’s unique needs.\n\nFrom providing short-term small business advice to becoming your long-term consulting partner, a consultant can increase your productivity and let you concentrate on what you do best.\n\nOur in depth management and wid"
+                },
+                {
+                    "id": 1,
+                    "question": "Web Development",
+                    "content": "Old non-responsive websites are only good for one thing – LOSING POTENTIAL CUSTOMERS. Develop an SEO friendly, mobile responsive website in just weeks. Elevate your brand design, improve your views and convert web viewers into loyal customers.\n\nAre you struggling with:\n\nCreating a modern, responsive and interactive website for your customers?\n\nSetting up your SEO and increasing your google ranking organically?\n\nA lack of coding skills to build an amazing and engaging website that you have in mind?\n\nCopy writing and the ability to attract customers with engaging words and content?\n\nBuilding a login and register page or a members portal for your website?\n\nCheck out some of our web development projects:\n\nwww.nikeemigration.com\n\nwww.myclient247.com.au\n\nwww.findrbooking.com\n\nwww.njproductions.com.au\n\nwww.weddingsbynj.com\n\nwww.sweetutsav.com.au\n\nwww.bananawrap.com\n\nReady to deliver your brand?Email us today:nikee@nikeeworld.com"
+                },
+                {
+                    "id": 2,
+                    "question": "Software Programs",
+                    "content": "Have you been wanting to develop a new software for your small business?\n\nDo you have the perfect idea in mind but can’t seem to find the right onshore software developer to make it happen?\n\nWe can solve that for you! From accounting softwares that do it all, to legal softwares that generate business contracts in just minutes, with Nikee anything is possible.\n\nHere’s some of the things our software developers create for your business:\n\nAccount report automation\n\nLegal contracts automation\n\nGenerate staff productivity reports\n\nManage leads / new /old /closed clients\n\nTrack and manage stock volumes\n\nAppointment booking / consultation integration\n\nStreamlined e-marketing process\n\nUpload digital forms / templates for staff\n\nAutomate e-newsletters\n\nCreate and send discounts + vouchers to clients\n\nOptimised tracking and utility tools for business owners"
+                },
+                {
+                    "id": 3,
+                    "question": "IT Support Services",
+                    "content": "IT Services and Support - We can provide you onsite and remote IT support anywhere in Melbourne.\n\nWe have team of certified engineer who can resolve your issue in no time."
+                },
+                {
+                    "id": 4,
+                    "question": "Cloud Services",
+                    "content": "Hosted Exchange Full featured Microsoft exchange server gives you flexibility of corporate email system without spending on hardware, software and licensing. Benefits.\n\nAccess your email, tasks, calendar from anywhere in the world with internet connection\n\nAccess your email, tasks, calendar from mobile devices like iPhone and blackberry\n\nFixed price to control your IT budget\n\nBuilt in antivirus and antispam features gives you peace of mind from online threats\n\nCreate delete and modify users and mailbox from web based portal."
+                },
+                {
+                    "id": 5,
+                    "question": "VOIP, DATA & Internet",
+                    "content": "VOIP (Voice over IP local and hosted) Slash your phone bills !!! Utilize Voice over Internet Protocol (VoIP)\n\nEveryday more and more Enterprises are moving from conventional telephone methods to VoIP systems.\n\nVoIP allows carrying voice and data traffic over packet network. It may be Local Area Network or Wide Area Networking including Internet.\n\nWe have expertise over deploying VoIP Solutions. We can easily design, develop and deploy multi-vendor Phones, PBX for your office environment.\n\nWe rely on our experienced team of CCNP (Cisco certified network professional) and CCVP (Cisco certified voice professional) employees.\n\nThese phones are effortless to set up, manage, and update. You can select from a broad range of services intended to meet your company requirements and budget to assist in improving productivity, encourage collaboration, and decrease operating costs."
+                },
+                {
+                    "id": 6,
+                    "question": "Managed Services",
+                    "content": "Remote monitoring - We have invested in a state of the art cloud based IT monitoring system that constantly feeds IT health and performance information back to our Operations Centre over a secure connection.\n\nProactive Support - When our monitoring system detects a potential IT issue we are instantly alerted and can provide proactive support to address the issue before it affects your business.\n\nRemote Desktop Control Fast and secure access to your managed IT systems allows us to instantly respond to IT issues or provide an interactive user support or training session. Security and Anti Virus Management\n\nWe automatically detect missing security patches or failed antivirus systems. Missing patches or antivirus issues can be ad-dressed remotely and out of hours ensuring you are not exposed to possible Virus or Hacker attacks.\n\nBackup monitoring - Our monitoring systems will ensure your important business data is being successful backed up as expected.\n\nDaily email alerts can be sent to indicate the success or failure of the backups, Asset Management Report and track locations, owners, suppliers, date of purchase, warranty and lease details across all of your managed IT devices.\n\nGet an up-to-date view of the hardware and software in use across your business. Track software licensing, installation dates, locations and managed device hardware configurations."
+                }
+            ]
+        }
+    },
+    {
+        "name": "Accounting",
+        "image": "Accounting-Solutions",
+        "description": "Nikee Accounting Solutions specialises in providing a large range of financial services for small businesses and it has identified that many smaller clients would benefit from cost effective accounting service.",
+        "url": "https://www.nikeeworld.com/nikee-professional-accountants/",
+        "id": 8,
+        "contents" : { 
+            "title": "Accounting Solutions",
+            "paragraph": "Nikee Accounting Solutions (NAS) was established to assist small businesses and individuals with their finances by providing cost effective accounting services and financial advice in comparison to complex large firms that deal predominantly with costly corporate tax.\n\nNAS is here to help take the financial stress out of running a business. We love working with individuals like you who need ongoing business advice and support on a range of matters including business returns, bookkeeping, restructuring, property investment, family trust and so on.\n\nWhether you’re a Sole Trader, Partnership, Company, Individual or Sub-Contractor, the team at NAS is here to service all your financial needs. We offer a high standard of service with affordable rates so that it is accessible to all. Some of our clients include small business owners, tradesmen, sub-contractors, retail stores owners.",
+            "image1": "accounting",
+            "image2": "accounting_service",
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "Business Restructuring",
+                    "content": "Your business structure is the foundation of your business, but as a small business, many owners tend to leap into their business because they have a particular skill or talent, thinking they can manage their finances on their own. Usually, it’s not until someone is in trouble that you reach out for external assistance. Why wait until something goes wrong? Start now and build the correct foundations for your business!"
+                },
+                {
+                    "id": 1,
+                    "question": "Accounting Services",
+                    "content": "Establish a structured, well-performing accounting system which tracks your data accurately and puts it in a usable format to help the business owner make educated management decisions.\n\nCreating the right accounting procedures and tools to help you be stress-free when it comes to your businesses’ finances.\n\nImplement proper accounting methods from the very beginning to prevent you from falling into legal traps or trouble with the ATO\n\nAuditing your business to ensure you are compliant with current regulations.\n\nProviding you with a specialised accounting professional to look after all your financial business needs.\n\nWe’ll look after the numbers, so you can focusing on growing your business!"
+                },
+                {
+                    "id": 2,
+                    "question": "Financial Advice",
+                    "content": "We understand that employing an accountants or advisors will provide you with a valuable asset to your business in the long run. By having a professional hand to management your financial affairs, you will not only sleep better at night, but you can feel freer to do the things you love and leave the numbers to us\n\nAdvisory Services\n\nPreparation of all financial statements as required.\n\nAnalysis of your financial data, payroll, cash flow, profit and loss, future forecast &amp; financial planning and deep analysis of potential threats or weak spots.\n\nAdvise on how to structure your finances for the best possible return.\n\nAssistance with the preparation of financial application.\n\nImplementation of &amp; review of accounting and business computer systems.\n\nTax planning and compliance.\n\nCapital gains, Goods and Services Tax and other Specialist Tax Services including Succession planning, Transition to Retirement &amp; Investment Solutions.\n\n"
+                },
+                {
+                    "id": 3,
+                    "question": "Book-keeping",
+                    "content": "We provide our clients with accurate, reliable and timely book-keeping services where you will work closely with our accountants and book-keepers. The advantage of this is that you will have a oversight of your business finances and a personal extra hand to guide you and be your point of contact when needed. We will streamline and simplify your financial reporting functions whilst providing you with the correct information to make accurate management decisions.\n\nYou will receive\n\nQuarterly &amp; monthly reports for your business activity\n\nA professional accountant to work closely with on all your businesses’ financial decisions\n\nTailored book-keeping services to suit your professional industry and your business’ needs.\n\nA report on the accounts receivable and accounts payable\n\nAdvise on budgeting and planning for the future"
+                },
+                {
+                    "id": 4,
+                    "question": "Wealth Growth",
+                    "content": "Simply launching a business is not enough. You may end up in a position where your growth and profits are great but you’re still struggling to pay your BAS at the end of the day. Nikee Accounting Services provides you with the support to not only ensure you stay on top of your finances, but also to help you build an investment portfolio, passive income or a new income streams to help you live a comfortable life.\n\nWealth Growth Services\n\nPersonalised, professional cashflow analysis tailored to your business or personal needs.\n\nRegular asset viability reports to help you manage your assets and cover new purchases.\n\nFinancial reports to support for your bank, loans and mortgaging needs.\n\nImplementation &amp; review of accounting and business computer systems.\n\nTax planning and preparation to prevent you from falling into traps and receiving an insurmountable bill at the end of the year.\n\nAssistance with ATO matters and documentation preparation.\n\nSuccession planning, transition to retirement and tailored investment solutions help you prepare for your future.\n\nProactive accounting solutions to taxation compliance and a business plan that adapts with your business.\n\nWe are committed to preparing you for the future and look forward to building a long-term relationship with you to manage and maintain all your financial matters in a timely and effective manner."
+                }
+            ]
+        }
+    },
+    {
+        "name": "Property",
+        "image": "propertymanagement",
+        "description": "Planning your next big event? We’ll be your team. From the catering to the decor to photography, all your solutions in one place.",
+        "url": "https://www.nikeeworld.com/property-services/",
+        "id": 9,
+        "contents": {
+            "title": "We Offer A Range Of Property Services Including",
+            "paragraph": "Imagine a stress-free property sale. Avoid sale delays and the pressure to discount when you speak to our professional property experts.\n\nRenting properties\n\nLeasing properties\n\nBuying and selling properties\n\nInvestment properties\n\nProperty management\n\nWhether you’re a newcomer to Australia or you’re simply just looking to enter the Australian Property Market, our property advisors can help you find out about the in’s and out’s of the entire market. Our strength lies in our people and our ability to cater to your needs.\n\nWe specialise in both commercial properties in Melbourne CBD and surrounding suburbs and residential properties throughout Victoria. From Carlton to Dandenong, listen to our property experts and steer your future in the direction, on the road to success.",
+            "image1": "business",
+            "questions": []
+        }
+    },
+    {
+        "name": "Career Counselling",
+        "image": "Counselling",
+        "description": "Are you ready to find a full-time job? Are you ready to learn techniques to position yourself as the best candidate in front of employers?",
+        "url": "https://www.nikeemigration.com/career-business-coaching/",
+        "id": 10,
+        "contents": {
+            "title": "Career Counselling",
+            "image1": "councelling",
+            "paragraph": "Career Counselling, Business Coaching, Interview Coaching &amp; In-house Career Experts here to serve you. We help you clarify your career direction, discuss all the pathways available to you and guide you to make decisions on what you might study or what further training you can do to elevate and grow your career.\n\nMost people visit a doctor to do a health check to see if anything is wrong at least once a year, but not enough people do a career check to find out what they’re doing right and wrong. If you send through the same resume ten times and get rejected, it’s clearly a sign you need to change something. But what exactly do you need to change or is it the whole thing that just not up-to the standard? How do you really know what recruiters are looking for?\n\nWe take a holistic approach in all our consulting where we speak with you about your needs, your plans and your expertise. Usually finding a job isn’t the only thing on a person’s mind and there are many other factors which come into play determining whether or not you actually get that job.\n\nWe take into consideration not only your academic background, but also your ability to speak concisely and coherently, your confidence and how you carry yourself, your ability to present, your portfolio (if you have one), how you respond to interview questions and much more in our Career Counselling sessions.\n\nAre you ready to find a full-time job? Are you ready to learn techniques to position yourself as the best candidate in front of employers?\n\nSend us an email now nikee@nikeeworld.com and a member of our Career Counselling team will be in touch with.",
+            "questions": []
+        }
+    },
+    {
+        "name": "Professional Year",
+        "image": "Professional-Year",
+        "description": "A ‘Professional Year’ or ‘PYear’ is a job and skills training program which allows international students to gain practical work experience in a career-related field. Essentially, it’s the stepping-stone from your university studies to full time paid employment in your industry.",
+        "url": "https://www.nikeemigration.com/professional-year/",
+        "id":11,
+        "contents": {
+            "title": "Professional Year",
+            "image1": "education",
+            "image2": "professional_year_service",
+            "paragraph": "What is a Professional Year you ask? A ‘Professional Year’ or ‘PYear’ is a job and skills training program which allows international students to gain practical work experience in a career-related field. Essentially, it’s the stepping-stone from your university studies to full time paid employment in your industry.\n\nUnder an ‘Eligible Skilled Occupation’ a student who completes this course to a high standard will be eligible for claim five points, according to the Australian Department of Home Affairs (DHA). The PYear Program ultimately will increase your employability skills and if you are a high achiever, it will place you in an excellent position to get a job once you’ve finished studying.\n\nBefore You Can Enrol\n\nBefore you can enroll into the Professional Year Program you will have:\n\nCompleted at least two years of tertiary education in Australia in your particular discipline\n\nHold an Australian visa which allows for full work and study rights. (Priority is given to those holding a 485 Skilled Graduate Visa or Bridging Visa to the graduate visa.\n\nMeet the minimum English language requirements for a Temporary Graduate Visa (485) . (E.g. For the IELTS you need an overall score of 6.0 with nothing below 5.0 in each of the category in order to apply)\n\nUndertaken an application interview with an accredited provider to ensure your chosen course is suitable for you.",
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "The Program Structure",
+                    "content": "Normally you will study your career related course over one year. Depending on where you complete your PY you may have an online or in-person orientation or an induction prior to starting. These sessions are usually held 1 – 2 weeks prior to your placement date / course commencement date. Be sure to ask us about your orientation date when you visit as these do change from time to time.\n\nWith a Nikee PY Placement you will be matched to an organization based on your skillset, academic background, employment experience, personality and the employer’s key criteria. Once we match you with your ideal placement opportunity, you will be notified and soon after called in for an interview and the interviewing stage begins.\n\nOnce you are in the program you need to performance at your very best in order to pass with flying colours. The higher your marks, the more opportunities you’ll have available to you."
+                }
+            ]
+        }
+    },
+    {
+        "name": "Internships",
+        "image": "Internships",
+        "description": "Ready to apply for an internship? Click here to see what’s available now.",
+        "url": "https://www.nikeemigration.com/internships-australia/",
+        "id": 12,
+        "contents": {
+            "title": "Internship",
+            "paragraph": "With Australian Internships in almost every single discipline from trades to medicine, we’ve got you covered! An internship with a perfectly matched role in the right company can open the right doors for you in the future.\n\nPut your right foot forward this year and challenge yourself with an industry placement or internship in your chosen career field. Over the last 23 years we have successfully placed more than 1500 students in an industry internship placement.",
+            "image1": "student_visa",
+            "image2": "internship_service",
+            "link": {
+                "title": "APPLY FOR THE INTERNSHIP",
+                "url": "https://www.nikeeworld.com/nikee-careers/"
+            },
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "Shelly - 2018 Marketing Placement",
+                    "content": "At first it was quite challenging, but after the first 2 – 3 weeks I started to get the hang of things and it was just an amazing experience. Working on real live projects and seeing my website project go live for the company was one of my biggest achievements. I now feel well equipped to enter the job market and compete with other candidates because I know I have the ability to build amazing interactive websites for large scale organisations."
+                },
+                {
+                    "id": 1,
+                    "question": "Kamal - 2019 Web Development Placement",
+                    "content": "Undertaking an internship really helps you stand out as an international student amongst others’ who have just migrated here and have no experience. I undertook a 3 month marketing placement and the amount of things I learnt on the job was just incredible. Would highly recommend all students to undertake an internship before applying for full time work"
+                },
+                {
+                    "id": 2,
+                    "question": "Sandra - 2017 Graphic Design Placement",
+                    "content": "I heard about Nikee Career Counselling through a friend and decided to give it a try. When I went for my first ever internship interview in Australia, I felt like I knew what I wanted, I was well prepared to talk about my skills and experience and I had a small portfolio of work to share with the employer. I received the internship placement and from then on it was intense, but I learnt so much in the span of just three months – more than I had learnt in my entire degree."
+                }
+            ]
+        }
+    },
+    {
+        "name": "IELTS AND PTE",
+        "image": "English-Courses",
+        "description": "Get career ready today! Professional training for the IELTS or PTE test Now Available from Qualified Experts. Call to reserve your place (03) 9663 5277 or email nikee@nikeeworld.com",
+        "url": "https://www.nikeemigration.com/ielts-pte-classes/",
+        "id": 13,
+        "contents": {
+            "title": "IELTS AND PTE",
+            "image1": "employment",
+            "image2": "ielts_service",
+            "paragraph": "Do you want to study in Australia or gain an Australian visa? Then you may have already heard of the IELTS and PTE tests.",
+            
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "The IELTS Test",
+                    "content": "IELTS stand for ‘International English Language Testing System’ and is a language proficiency test used to assess international students’ level of English proficiency in a country where English is the native language or primary language used. \n\nThe IELTS test consists of four key areas:\n\nListening – Tests your ability to hear, comprehend and detect certain specific information\n\nSpeaking – Tests your ability to respond to others, express your ideas, ask questions and your pronunciation of typically used words.\n\nReading – Tests your ability to comprehend and understand pieces of information (graphs, charts, letters, etc.), your ability to speed read and the techniques you use when analysing specific readings.\n\nWriting – Tests your ability to respond to specific questions, coherently and concise express your thoughts, arrange and organize content effectively and produce written content with a high level of grammatical accuracy.\n\nThe average person studies at least 20 hours a week for about six months before sitting their IELTS test. What are you doing to help you achieve the highest grades possible in your IELTS?\n\nWe provide IELTS coaching and support to help prepare you for your test and also offer you the option of speaking with our IELTS partners to get the best deal on your IELTS course."
+                },
+                {
+                    "id": 1,
+                    "question": "PTE Academic Test",
+                    "content": "The PTE Academic Test is the Pearson Test of English for study abroad candidates and for those wanting to migrant to Australia. It is an unbiased English test which the Australian government accepts as part of your visa application\n\nThe PTE Academic is trusted by universities, colleges and governments worldwide as it incorporates artificial intelligence, technology and recognition techniques to test your understanding of the English language.\n\nThe PTE Academic Test consists of the following areas:\n\nPart 1:\n\nSpeaking &amp; Writing (77 – 93 minutes) – Tests your ability to pronounce English words, respond to questions, comprehend tasks required, your use of grammar and punctuation and your ability to express yourself concisely in written English (essay format).\n\nPart 2:\n\nReading (32 – 40 minutes) – Tests your ability to respond to multiple choice questions, re-order paragraphs, comprehend complex written pieces and fill in missing information.\n\nPart 3:\n\nListening (45 – 57 minutes) – Tests your ability to summarise spoken test, identity key information and apply it to questions, identity incorrect words and write from dictation.\n\nWhilst the format of the PTE test is challenging, many students feel it’s quite achievable if you have put in the practice and the hours required to gain confidence in each area of the test.\n\nReady To Start?\n\nAre you ready to put in the hours to get the results? To start your IELTS or PTE test preparation give a us call today (03) 9663 5277 or email us at nikee@nikeeworld.com and let’s get you started!"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Health Insurance",
+        "image": "Health-Insurance",
+        "description": "Speak to us about an Insurance Health Check today and find out about all your options and how you can take advantage of the same deals the locals get from Australia’s Top Health Insurance providers.",
+        "url": "https://www.nikeemigration.com/health-insurance-australia/",
+        "id": 14,
+        "contents": {
+            "title": "Health Insurance",
+            "image1": "health",
+            "paragraph": "Migrating to a new country can be quite overwhelming! There are so many things to think about – like where can I get a job? Where can I find affordable housing? Which insurance providers cover all my needs? How much will I be spending on excess? What do I need to cover without breaking my budget?\n\nAt Nikee we simplify this entire process for you and break it down through our Matched Health Insurance program. Based on the type of visa you are on, the length of your stay in Australia, your personal health needs and your budget, we’ll match you with the Health Insurance provider that is the best for you.\n\nAt Nikee we simplify this entire process for you and break it down through our Matched Health Insurance program. Based on the type of visa you are on, the length of your stay in Australia, your personal health needs and your budget, we’ll match you with the Health Insurance provider that is the best for you.\n\nIf you are a student, we will find you the best health insurance for someone on a student visa. If you have a young family, we’ll match you with an insurance provider that covers as much as possible to keep you out of trouble when the kids get sick – you don’t want to be having to pay huge bills out of your pocket!\n\nDon’t fall for new or dodgy insurance providers. Don’t get tricked into paying more than you actually need to.\n\nSpeak to us about an Insurance Health Check today and find out about all your options and how you can take advantage of the same deals the locals get from Australia’s Top Health Insurance.",
+            "questions": []
+        }
+    }
+]

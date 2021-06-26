@@ -381,13 +381,13 @@ const styles = StyleSheet.create({
 		fontSize: 16,
 		color: colors.black,
 		fontFamily: 'Roboto_400Regular',
-		padding: 10,
+		paddingHorizontal: 10,
 		textAlign: 'justify',
 		lineHeight: 22,
 	},
 	pic: {
 		width: windowWidth - 20,
-		marginHorizontal: 10,
-		resizeMode: 'contain',
+		height: 200,
+		margin: 10,
 	},
 });

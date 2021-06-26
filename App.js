@@ -11,10 +11,10 @@ import {
 } from '@expo-google-fonts/roboto';
 import BranchesScreen from './App/screens/BranchesScreen';
 import MigrationScreen from './App/screens/MigrationScreen';
-import FollowUsScreen from './App/screens/FollowUsScreen';
+import EmploymentScreen from './App/screens/EmploymentScreen';
 
 export default function App() {
-	return <FollowUsScreen></FollowUsScreen>;
+	return <EmploymentScreen></EmploymentScreen>;
 }
 
 const styles = StyleSheet.create({

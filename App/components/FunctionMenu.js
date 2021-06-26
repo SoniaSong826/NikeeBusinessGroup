@@ -43,7 +43,7 @@ function FunctionMenu({ navigation }) {
 					></FunctionIcon>
 					<FunctionIcon
 						title="Branches"
-						iconName="source-branch"
+						iconName="map-marker-multiple"
 						color="blackBlue"
 						// onPress={() =>
 						// 	navigation.navigate('Category Products', {

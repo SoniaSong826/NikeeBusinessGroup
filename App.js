@@ -9,18 +9,19 @@ import {
 	Roboto_100Thin,
 	Roboto_500Medium,
 } from '@expo-google-fonts/roboto';
+import BranchesScreen from './App/screens/BranchesScreen';
+import MigrationScreen from './App/screens/MigrationScreen';
+import FollowUsScreen from './App/screens/FollowUsScreen';
 
 export default function App() {
-  return (
-    <HomeScreen></HomeScreen>
-  );
+	return <FollowUsScreen></FollowUsScreen>;
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
+	container: {
+		flex: 1,
+		backgroundColor: '#fff',
+		alignItems: 'center',
+		justifyContent: 'center',
+	},
 });

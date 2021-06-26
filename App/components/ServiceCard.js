@@ -34,6 +34,8 @@ function ServiceCard({ title, paragraph, imagesrc, onPress }) {
 const styles = StyleSheet.create({
 	container: {
 		marginVertical: 5,
+		width: windowWidth,
+		alignItems:"center",
 	},
 	card: {
 		height: 170,

@@ -65,7 +65,7 @@ export default class Panel extends Component {
 	};
 	render() {
 		return (
-			<ImageBackground style={styles.backGround} source={require('../assets/background.png')}>
+			<ImageBackground style={styles.backGround} source={require('../assets/inner-background.png')}>
 				<ScrollView style={styles.container}>
 					<AppText style={styles.header}>International Students in Australia</AppText>
 					<AppText style={styles.introduction}>
@@ -313,7 +313,7 @@ export default class Panel extends Component {
 							{'\n'}Most common mistakes students make when applying and how to avoid them{'\n'}
 							{'\n'}How to tailor your application to your institution{'\n'}
 							{'\n'}All the key documents you will need for your application{'\n'}
-							{'\n'}How to have you application processed faster &amp; in the optimal way.
+							{'\n'}How to have you application processed faster & in the optimal way.
 						</Text>
 					</View>
 					<Image

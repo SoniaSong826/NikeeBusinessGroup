@@ -13,7 +13,7 @@ const imageList = [
 	require('../assets/migrationPicture/Family-Visas.jpg'),
 	require('../assets/migrationPicture/Visitor-Visa.jpg'),
 ];
-function MigrationScreen(props) {
+function MigrationScreen({navigation}) {
 	return (
 		<ImageBackground style={styles.backGround} source={require('../assets/background.png')}>
 			<FlatList
@@ -26,7 +26,7 @@ function MigrationScreen(props) {
 						title={item.name.toUpperCase()}
 						paragraph={item.description}
 						imagesrc={imageList[item.id - 1]}
-						//onPress = {}
+						onPress={()=>navigation.navigate(item.name)}
 					/>
 				)}
 			></FlatList>

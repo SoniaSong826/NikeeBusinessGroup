@@ -51,7 +51,7 @@ export default class Panel extends Component {
 
 	render() {
 		return (
-			<ImageBackground style={styles.backGround} source={require('../assets/background.png')}>
+			<ImageBackground style={styles.backGround} source={require('../assets/inner-background.png')}>
 				<ScrollView style={styles.container}>
 					<AppText style={styles.header}>Recruitment and Placement Services</AppText>
 					<AppText style={styles.introduction}>
@@ -67,7 +67,7 @@ export default class Panel extends Component {
 						work with thousands of businesses Australia wide to enable our students to work in a job that
 						they enjoy and one that also matches their needs. In recent years we have had a very high
 						success rate with our placements that both match our students skills and fields of expertise and
-						that fulfil their needs as well.",
+						that fulfil their needs as well.
 					</AppText>
 					<Image style={styles.pic} source={require('../assets/employmentPicture/employment.jpg')}></Image>
 					<TouchableOpacity activeOpacity={0.8} onPress={this.changeLayout1} style={styles.BtnBlue}>

@@ -28,7 +28,7 @@ function FollowUsScreen() {
 	} else {
 		return (
 			<ImageBackground style={styles.backGround} source={require('../assets/inner-background.png')}>
-				<ScrollView>
+				<ScrollView contentContainerStyle={{flex:1,justifyContent:"center"}}>
 					<AppText style={styles.content}>
 						Nikee Business Group is a leading Australian consulting firm providing a wide range of
 						consultation services across a stream of products to clients from Australia around the world.{' '}

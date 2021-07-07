@@ -1,5 +1,14 @@
 import React from 'react';
-import { View, StyleSheet, Image, TouchableHighlight, Text, Dimensions, ImageBackground } from 'react-native';
+import {
+	View,
+	StyleSheet,
+	Image,
+	TouchableOpacity,
+	Text,
+	Dimensions,
+	ImageBackground,
+	TouchableWithoutFeedback,
+} from 'react-native';
 import AppLoading from 'expo-app-loading';
 import colors from '../config/colors';
 import { useFonts, Roboto_700Bold, Roboto_400Regular } from '@expo-google-fonts/roboto';
@@ -15,7 +24,7 @@ function ServiceCard({ title, paragraph, imagesrc, onPress }) {
 		return <AppLoading />;
 	}
 	return (
-		<TouchableHighlight underlayColor={colors.blackBlue} onPress={onPress} style={styles.container}>
+		<TouchableOpacity onPress={onPress} style={styles.container}>
 			<ImageBackground style={styles.card} source={imagesrc}>
 				<View style={styles.translucence}></View>
 				<View style={styles.buttonRow}>
@@ -28,7 +37,7 @@ function ServiceCard({ title, paragraph, imagesrc, onPress }) {
 					<MaterialCommunityIcons name="menu-right" size={45} color={colors.white}></MaterialCommunityIcons>
 				</View>
 			</ImageBackground>
-		</TouchableHighlight>
+		</TouchableOpacity>
 	);
 }
 const styles = StyleSheet.create({

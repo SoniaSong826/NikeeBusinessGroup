@@ -1,5 +1,5 @@
 import React from 'react';
-import { FlatList, StyleSheet, ImageBackground,Dimensions } from 'react-native';
+import { FlatList, StyleSheet, ImageBackground, Dimensions } from 'react-native';
 import ServiceCard from '../components/ServiceCard';
 import categorydata from '../info/categorydata.json';
 import FunctionMenu from '../components/FunctionMenu';
@@ -24,12 +24,19 @@ const imageList = [
 	require('../assets/categoryPicture/English-Courses.jpg'),
 	require('../assets/categoryPicture/Health-Insurance.jpg'),
 ];
-function HomeScreen(props) {
+function HomeScreen({ navigation }) {
 	return (
 		<ImageBackground style={styles.backGround} source={require('../assets/background.png')}>
 			<NikeeLogo></NikeeLogo>
-			<FunctionMenu></FunctionMenu>
-			<AppButton title={'Contact Us'} icon={'phone'} icon_color = 'white' icon_size={25} style={styles.button}></AppButton>
+			<FunctionMenu navigation={navigation}></FunctionMenu>
+			<AppButton
+				title={'Contact Us'}
+				icon={'phone'}
+				icon_color="white"
+				icon_size={25}
+				style={styles.button}
+				// onPress={}
+			></AppButton>
 			<FlatList
 				contentContainerStyle={styles.flatlist}
 				data={seviceInfo}
@@ -40,7 +47,7 @@ function HomeScreen(props) {
 						title={item.name.toUpperCase()}
 						paragraph={item.description}
 						imagesrc={imageList[item.id - 1]}
-						//onPress = {}
+						onPress={()=>navigation.navigate(item.name)}
 					/>
 				)}
 			></FlatList>
@@ -51,15 +58,16 @@ const styles = StyleSheet.create({
 	backGround: {
 		flex: 1,
 		alignItems: 'center',
+		paddingTop:40,
 	},
 	flatlist: {
 		justifyContent: 'center',
 		alignItems: 'center',
 	},
-	button:{
-		width:220,
-		borderRadius:25,
-	}
+	button: {
+		width: 220,
+		borderRadius: 25,
+	},
 });
 
 export default HomeScreen;

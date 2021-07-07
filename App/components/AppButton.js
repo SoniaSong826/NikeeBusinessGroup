@@ -51,6 +51,7 @@ const styles = StyleSheet.create({
 	text: {
 		fontFamily: 'Roboto_700Bold',
 		fontSize: 25,
+		textAlign:"center",
 		color: colors.white,
 	},
 });

@@ -53,7 +53,7 @@ function FunctionMenu({ navigation }) {
 						title="Login"
 						iconName="account"
 						color="lightRed"
-						// onPress={() => navigation.navigate('Order Now')}
+						onPress={() => navigation.navigate('Login')}
 					></FunctionIcon>
 				</View>
 			</View>

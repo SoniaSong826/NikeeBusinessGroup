@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
 		marginTop: 10,
 	},
 	text: {
-		color: colors.white,
+		color: colors.black,
 		fontSize: 15,
 		fontFamily: 'Roboto_400Regular',
 	},

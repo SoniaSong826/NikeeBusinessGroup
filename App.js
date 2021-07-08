@@ -32,6 +32,7 @@ import ProfessionalYearScreen from './App/screens/ProfessionalYearScreen';
 import PropertyScreen from './App/screens/PropertyScreen';
 import TechnologyScreen from './App/screens/TechnologyScreen';
 import TestimonialsScreen from './App/screens/TestimonialsScreen';
+import LoginScreen from './App/screens/LoginScreen';
 
 import BusinessVisaScreen from './App/screens/MigrationScreens/BusinessVisaScreen';
 import EmployerVisaScreen from './App/screens/MigrationScreens/EmployerVisaScreen';
@@ -78,6 +79,7 @@ export default function App() {
 					<Stack.Screen name="Property" component={PropertyScreen} />
 					<Stack.Screen name="Technology" component={TechnologyScreen} />
 					<Stack.Screen name="Testimonials" component={TestimonialsScreen} />
+					<Stack.Screen name="Login" component={LoginScreen} />
 
 					<Stack.Screen name="Business Visa" component={BusinessVisaScreen} />
 					<Stack.Screen name="Employer Visa" component={EmployerVisaScreen} />

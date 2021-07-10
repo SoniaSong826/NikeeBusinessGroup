@@ -1,5 +1,5 @@
 import React from 'react';
-import { FlatList, StyleSheet, ImageBackground, Dimensions, Text } from 'react-native';
+import { FlatList, StyleSheet, ImageBackground, Dimensions, Button } from 'react-native';
 import DatePicker from 'react-native-date-picker'
 import { AppForm, AppFormFieldWithTitle } from '../components/form';
 // import ServiceCard from '../components/ServiceCard';
@@ -14,8 +14,6 @@ const windowWidth = Dimensions.get('window').width;
 
 class LoginScreen extends React.Component {
 
-    dob;
-
     render() {
         return (
             <ImageBackground style={styles.backGround} source={require('../assets/background.png')}>
@@ -29,12 +27,15 @@ class LoginScreen extends React.Component {
                     <AppFormFieldWithTitle name="fileno" title="File No" />
                     <AppFormFieldWithTitle name="emailaddress" title="Email Address" />
                     <AppFormFieldWithTitle name="mobile" title="Phone number" />
-                    {/* <DatePicker date={dob} onDateChange={ } androidVariant='iosClone' mode='date' /> */}
                 </AppForm>
-                
+                <Button style={styles.button} onPress={this.onLoginPress} title='Login' />
             </ImageBackground>
         );
     }
+
+	onLoginPress = () => {
+		console.log('on login press')
+	}
 }
 
 const styles = StyleSheet.create({

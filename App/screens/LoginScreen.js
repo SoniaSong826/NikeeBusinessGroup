@@ -1,36 +1,46 @@
 import React from 'react';
-import { FlatList, StyleSheet, ImageBackground, Dimensions, Button } from 'react-native';
+import { StyleSheet, ImageBackground, Text, Button } from 'react-native';
 import DatePicker from 'react-native-date-picker'
 import { AppForm, AppFormFieldWithTitle } from '../components/form';
-// import ServiceCard from '../components/ServiceCard';
-// import categorydata from '../info/categorydata.json';
-// import FunctionMenu from '../components/FunctionMenu';
-// import AppButton from '../components/AppButton';
 import NikeeLogo from '../components/NikeeLogo';
-
-const windowWidth = Dimensions.get('window').width;
-
-
+import NetworkController from '../network/NetworkController';
+import TabNavigationScreen from './UserScreens/TabNavigationScreen';
 
 class LoginScreen extends React.Component {
 
+	state = {'response': null}
+
+    userlogin = async (fileno, dob, mobile, email) => {
+        const network = new NetworkController()
+        const response = await network.loginWithData(fileno, dob, mobile, email)
+		this.setState({ 'response': response })
+        // console.log(response)
+    }
+
     render() {
-        return (
-            <ImageBackground style={styles.backGround} source={require('../assets/background.png')}>
-                <NikeeLogo></NikeeLogo>
-                <AppForm initialValues={{
-							fileno: '',
-							emailaddress: '',
-							mobile: '',
-						}}
-                        onSubmit={(values) => { console.log("submit")}}>
-                    <AppFormFieldWithTitle name="fileno" title="File No" />
-                    <AppFormFieldWithTitle name="emailaddress" title="Email Address" />
-                    <AppFormFieldWithTitle name="mobile" title="Phone number" />
-                </AppForm>
-                <Button style={styles.button} onPress={this.onLoginPress} title='Login' />
-            </ImageBackground>
-        );
+		if (this.state.response == null) { 
+			return (
+				<ImageBackground style={styles.backGround} source={require('../assets/background.png')}>
+					<NikeeLogo></NikeeLogo>
+					<AppForm initialValues={{
+								fileno: '',
+								emailaddress: '',
+								mobile: '',
+							}}
+							onSubmit={(values) => { console.log("submit")}}>
+						<AppFormFieldWithTitle name="fileno" title="File No" />
+						<AppFormFieldWithTitle name="emailaddress" title="Email Address" />
+						<AppFormFieldWithTitle name="mobile" title="Phone number" />
+					</AppForm>
+					<Button style={styles.button} onPress={() => this.userlogin(2425, 346118400, '0406434951', 'jaswinder020@ymail.com')} title='Login' />
+				</ImageBackground>
+			);
+		} else {
+			return (
+				<TabNavigationScreen response={this.state.response}/>
+			)
+		}
+					
     }
 
 	onLoginPress = () => {

@@ -7,6 +7,7 @@ import FamilyScreen from './FamilyScreen';
 import EducationScreen from './EducationScreen';
 import ExperienceScreen from './ExperienceScreen';
 import AddressScreen from './AddressScreen';
+import PersonalScreen from './PersonalScreen';
 
 const Tab = createBottomTabNavigator();
 
@@ -19,6 +20,7 @@ class TabNavigationScreen extends React.Component {
     render() {
         return (
               <Tab.Navigator>
+                  <Tab.Screen name="Personal" children={() => <PersonalScreen details={this.props.response.data} />} />
                 <Tab.Screen name="Family" children={() => <FamilyScreen details={this.props.response.data.ApplicantDetails.DependantDetails}/>} />
                 <Tab.Screen name="Education" children={() => <EducationScreen details={this.props.response.data.ApplicantDetails.QualificationDetails}/>} />
                 <Tab.Screen name="Experience" children={() => <ExperienceScreen details={this.props.response.data.ApplicantDetails.EmploymentDetails}/>} />

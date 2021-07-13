@@ -2,13 +2,18 @@ import React, { Component } from 'react';
 import { Text, StyleSheet, View, SectionList } from 'react-native';
 
 class PersonalScreen extends React.Component {
+  state = {'firstName': '', 'lastName': '', 'dob': '', 'gender': '', 'countryOfBirth': ''}
+
+    componentDidMount() {
+        console.log(this.props.details.ApplicantDetails.ContactDetails)
+        this.setState({'firstName': this.props.details.ApplicantDetails.ContactDetails.ContactGivenName})
+    }
+
     render() {
         return (
             <View style={styles.container}>
-                <SectionList sections={[
-                    { title: '', data=['Jack']}]}
-                    renderItem={({item}) => <Text style={styles.item}>{item}</Text>}
-                    />
+              {/* <View style={} */}
+                <Text>{this.state.firstName}</Text>
             </View>
         );
     }
@@ -34,3 +39,5 @@ const styles = StyleSheet.create({
       height: 44,
     },
   })
+
+  export default PersonalScreen

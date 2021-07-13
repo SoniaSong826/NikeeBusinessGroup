@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
 		flex: 1,
 		fontSize: 14,
 		fontFamily: 'Roboto_400Regular',
-		color: colors.white,
+		color: colors.black,
 	},
 });
 export default AppTextInput;

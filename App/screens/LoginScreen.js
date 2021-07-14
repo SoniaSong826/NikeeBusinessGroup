@@ -88,9 +88,9 @@ const LoginScreen = () => {
 					<AppTextInput onChangeText={setEmail} placeholder="Email" value={email}/>
 					<AppTextInput onChangeText={setMobile} placeholder="Mobile" value={mobile} keyboardType="numeric"/>
 					<View style={styles.container}>
-						<Text onPress={showDatePicker}>{dob}</Text>
+						<Text onPress={showDatePicker} style={styles.calendarText}>{dob}</Text>
 					</View>
-					<DateTimePickerModal mode='date' isVisible={datePickerVisible} onCancel={hideDatePicker} onConfirm={handleDatePicker} />
+					<DateTimePickerModal mode='date' isVisible={datePickerVisible} onCancel={hideDatePicker} onConfirm={handleDatePicker} date={new Date("1980-01-01")} display="spinner" />
 					<Button style={styles.button} onPress={onLoginPress} title='Login' />
 				</SafeAreaView>
 			</ImageBackground>
@@ -166,6 +166,10 @@ const styles = StyleSheet.create({
 		marginTop: 8,
 		padding: 10,
 		width: '100%',
+		height: 50
+	},
+	calendarText: {
+		width: '100%'
 	},
 	backGround: {
 		flex: 1,

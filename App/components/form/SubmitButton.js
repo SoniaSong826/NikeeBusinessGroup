@@ -16,10 +16,10 @@ function SubmitButton({ title, style, ...otherProps }) {
 const styles = StyleSheet.create({
 	button: {
 		alignItems: 'center',
-		marginTop: 10,
+		margin: 10,
 	},
   text:{
-    color: colors.lightGray,
+    color: colors.blackBlue,
     fontSize:23,
   }
 });

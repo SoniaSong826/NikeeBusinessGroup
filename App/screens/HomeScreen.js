@@ -6,7 +6,6 @@ import FunctionMenu from '../components/FunctionMenu';
 import AppButton from '../components/AppButton';
 import NikeeLogo from '../components/NikeeLogo';
 
-const windowWidth = Dimensions.get('window').width;
 const seviceInfo = categorydata;
 const imageList = [
 	require('../assets/categoryPicture/Migration-Services.jpg'),
@@ -35,7 +34,7 @@ function HomeScreen({ navigation }) {
 				icon_color="white"
 				icon_size={25}
 				style={styles.button}
-				// onPress={}
+				onPress={()=>navigation.navigate("Contact Us")}
 			></AppButton>
 			<FlatList
 				contentContainerStyle={styles.flatlist}

@@ -17,14 +17,17 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.NikeeBusinessGroup",
+      "buildNumber": "1.0.0"
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./App/assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
-    },
+		"package": "com.NikeeBusinessGroup",
+		"versionCode": 1,
+		"adaptiveIcon": {
+			"foregroundImage": "./App/assets/icon.png",
+			"backgroundColor": "#FFFFFF"
+		},
     "web": {
       "favicon": "./App/assets/favicon.png"
     }

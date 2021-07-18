@@ -7,22 +7,29 @@ const windowWidth = Dimensions.get('window').width;
 const windowHeight = Dimensions.get('window').height;
 function OurStoryScreen() {
 	return (
-		<ScrollView style={styles.backGround}>
-			<Image style={styles.picture} source={require('../assets/OurStory/about_pic.png')}></Image>
-			<View style={styles.box}></View>
-			<AppText style={styles.title}>Lord Mayor's Commendation Award</AppText>
-			<AppText style={styles.subTitle}>Our Story</AppText>
-			<AppText style={styles.contents}>
-				Nikee Business Group is proud to be serving Australia since 1996, delivering exceptional results with
-				Migration, Education and Employment matters. {'\n'}
-				{'\n'}
-				{'\n'}Our consultants are senior industry experts in the various fields and are strategically located
-				and allow us to serve our clients seamlessly in Australia and across the Americas, Asia Pacific and the
-				Middle East. Our global presence and understanding of local culture enables us to deliver optimal
-				results to you.
-			</AppText>
-		</ScrollView>
-	);
+    <ScrollView style={styles.backGround}>
+      <Image
+        style={styles.picture}
+        source={require("../assets/OurStory/about_pic.png")}
+      ></Image>
+      <View style={styles.box}></View>
+      <AppText style={styles.title}>
+        Lord Mayor's{"\n"}Commendation{"\n"}Award
+      </AppText>
+      <AppText style={styles.subTitle}>Our Story</AppText>
+      <AppText style={styles.contents}>
+        Nikee Business Group is proud to be serving Australia since 1996,
+        delivering exceptional results with Migration, Education and Employment
+        matters. {"\n"}
+        {"\n"}
+        {"\n"}Our consultants are senior industry experts in the various fields
+        and are strategically located and allow us to serve our clients
+        seamlessly in Australia and across the Americas, Asia Pacific and the
+        Middle East. Our global presence and understanding of local culture
+        enables us to deliver optimal results to you.
+      </AppText>
+    </ScrollView>
+  );
 }
 
 const styles = StyleSheet.create({
@@ -38,7 +45,6 @@ const styles = StyleSheet.create({
 		height: windowHeight * 0.35,
 	},
 	title: {
-		width: windowWidth * 0.7,
 		backgroundColor: 'rgba(52, 52, 52, 0.6)',
 		fontSize: 40,
 		fontFamily: 'Roboto_700Bold',

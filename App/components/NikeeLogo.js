@@ -30,42 +30,43 @@ function NikeeLogo() {
 }
 
 const styles = StyleSheet.create({
-	rowContainer: {
-		width: windowWidth,
-		flexDirection: 'row',
-		alignItems: 'center',
-		justifyContent: 'center',
-		backgroundColor: colors.white,
-	},
-	logo: {
-		width: 100,
-		height: 100,
-	},
-	nikee: {
-		fontSize: 30,
-		fontFamily: 'Atlantica',
-		color: colors.lightRed,
-	},
-	twoTexts: {
-		flexDirection: 'row',
-		alignItems: 'center',
-		justifyContent: 'center',
-	},
-	left: {
-		fontFamily: 'Roboto_700Bold',
-		fontSize: 25,
-		color: colors.lightRed,
-	},
-	slogan: {
-		fontSize: 15,
-		fontWeight: '500',
-		fontStyle: 'italic',
-		color: colors.lightBlue,
-	},
-	columnContainer: {
-		alignItems: 'center',
-		justifyContent: 'center',
-	},
+  rowContainer: {
+    padding: 10,
+    width: windowWidth,
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: colors.white,
+  },
+  logo: {
+    width: 100,
+    height: 100,
+  },
+  nikee: {
+    fontSize: 30,
+    fontFamily: "Atlantica",
+    color: colors.lightRed,
+  },
+  twoTexts: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  left: {
+    fontFamily: "Roboto_700Bold",
+    fontSize: 25,
+    color: colors.lightRed,
+  },
+  slogan: {
+    fontSize: 15,
+    fontWeight: "500",
+    fontStyle: "italic",
+    color: colors.lightBlue,
+  },
+  columnContainer: {
+    alignItems: "center",
+    justifyContent: "center",
+  },
 });
 
 export default NikeeLogo;
